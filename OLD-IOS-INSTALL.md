@@ -53,6 +53,9 @@ Follow [this guide](https://ios.cfw.guide/get-started/) to get started on jailbr
 
 > [!TIP]
 > Once you install the jailbreak tweak, you can launch the game without going to the Geode launcher. However you should keep the launcher if you want to restart the game, enter safe mode and update Geode!
+g
+
+
 
 2. Add [this repo](https://ios-repo.geode-sdk.org) to your package manager (Sileo, Zebra, Cydia, etc.).
 3. Install the **Geode Inject** tweak.
